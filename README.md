@@ -1,5 +1,5 @@
 
-# 🧮 Loyalty Points Analysis – Analytics Case Study
+#  Loyalty Points Analysis – Analytics Case Study
 
 This repository contains a full project for analyzing loyalty points as part of a business case study. It simulates transaction and gameplay data for a fictional gaming platform and demonstrates how to:
 
@@ -11,7 +11,7 @@ This repository contains a full project for analyzing loyalty points as part of 
 
 ---
 
-## 📁 Contents
+##  Contents
 
 - `loyalty_points_analysis.ipynb` – Jupyter Notebook with the full analytical workflow
 - `deposits_october.csv` – Simulated deposit transactions for October 2023
@@ -20,7 +20,7 @@ This repository contains a full project for analyzing loyalty points as part of 
 
 ---
 
-## 📊 Loyalty Formula
+##  Loyalty Formula
 
 ```
 Loyalty Points = 
@@ -32,7 +32,7 @@ Loyalty Points =
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 1. Compute loyalty points for players in October
 2. Analyze activity in four specific date/slots
@@ -42,7 +42,7 @@ Loyalty Points =
 
 ---
 
-## 🛠 How to Use
+##  How to Use
 
 1. Clone this repository or download the files
 2. Launch the Jupyter Notebook:
@@ -54,7 +54,7 @@ Loyalty Points =
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 - Python 3.7+
 - pandas
@@ -69,20 +69,14 @@ pip install pandas numpy matplotlib
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - This project uses randomly generated (dummy) data for demonstration purposes.
 - Suitable for portfolio use, analytics interviews, or SQL/pandas practice.
 
 ---
 
-## 📬 Contact
-
-If you have questions or want to contribute, feel free to open an issue or fork the repo.
-
----
-
-## 🛡️ Disclaimer
+##  Disclaimer
 
 This project is for demonstration and educational use only. Use responsibly and do not deploy without proper testing.
 
@@ -90,5 +84,3 @@ This project is for demonstration and educational use only. Use responsibly and 
 
 
 © 2025 by CyberC137
-
-
